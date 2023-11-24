@@ -1,7 +1,7 @@
 import { FaRegStar, FaStar } from "react-icons/fa";
 const Support = () => {
   return (
-    <div className="md:flex gap-5 items-center justify-center px-3 lg:px-24 py-10">
+    <div className="md:flex gap-5 items-center justify-center px-3 lg:px-32 py-10">
       <div className="lg:space-y-5 space-y-4 lg:w-1/2">
         <h1 className="font-bold text-4xl">
           How we support our <br /> pratner all over the world

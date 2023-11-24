@@ -87,7 +87,7 @@ const Benifit = () => {
             </div>
           </div>
         </div>
-        <div className="lg:w-1/2 lg:ml-16 relative">
+        <div className="lg:w-1/2 lg:ml-44 relative">
           <img className="lg:w-96 w-full mb-5" src={rectangle} alt="" />
           <div className="flex items-center gap-2 py-2 px-3 bg-white border rounded-md absolute -mt-96 lg:-ml-24 -ml-10">
             <img src={ellipse} alt="" />
